@@ -97,9 +97,18 @@ Then restart Claude and you'll have access to:
 
 ## Example Queries
 
+See [EXAMPLES.md](EXAMPLES.md) for detailed examples including:
+- Basic queries and information requests
+- Advanced reasoning and step-by-step analysis
+- Long-form research and synthesis
+- Custom parameter usage
+- Real-world workflows
+
+Quick examples:
+
 ### Basic Question
 ```
-Ask Perplexity: "What are the latest developments in AI (2024)?"
+Ask Perplexity: "What are the latest developments in AI (2025)?"
 ```
 
 ### Advanced Reasoning
