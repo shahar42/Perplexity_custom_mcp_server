@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "perplexity": {
+      "command": "/path/to/perplexity-mcp-server/venv/bin/python",
+      "args": [
+        "/path/to/perplexity-mcp-server/server.py"
+      ],
+      "env": {
+        "PERPLEXITY_API_KEY": "your_api_key_here"
+      }
+    }
+  }
+}
